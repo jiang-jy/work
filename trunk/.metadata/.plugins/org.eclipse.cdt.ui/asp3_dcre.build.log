@@ -1,0 +1,9 @@
+12:17:41 **** Incremental Build of configuration Debug for project asp3_dcre ****
+make -j8 all 
+make[1]: Entering directory 'C:/Users/bmjia/Desktop/trunk-435/trunk/asp3_dcre/Debug'
+make[1]: Nothing to be done for 'check'.
+make[1]: 'asp.bin' is up to date.
+make[1]: Leaving directory 'C:/Users/bmjia/Desktop/trunk-435/trunk/asp3_dcre/Debug'
+
+12:17:42 Build Finished. 0 errors, 0 warnings. (took 965ms)
+

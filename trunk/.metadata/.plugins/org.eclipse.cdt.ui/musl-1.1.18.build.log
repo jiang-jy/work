@@ -1,0 +1,6 @@
+12:17:36 **** Incremental Build of configuration Debug for project musl-1.1.18 ****
+make -j8 all 
+make: Nothing to be done for 'all'.
+
+12:17:40 Build Finished. 0 errors, 0 warnings. (took 4s.368ms)
+
