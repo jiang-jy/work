@@ -1,0 +1,5 @@
+signature sCallSensor {
+    void setYES( );
+    void setNO( );
+    void setCallHoldingTime( );
+};

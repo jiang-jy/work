@@ -1,0 +1,10 @@
+signature sEarthquakeSensor {
+    void setYES( );
+    void setNO( );
+    void setReset( );
+    void setSiValue( );
+    void setReset( );
+    void setYES( );
+    void setNO( );
+    void setReset( );
+};

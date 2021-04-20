@@ -1,0 +1,4 @@
+signature sRainSensor {
+    void setYES( );
+    void setNO( );
+};

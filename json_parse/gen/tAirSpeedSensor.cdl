@@ -1,0 +1,4 @@
+signature sAirSpeedSensor {
+    void setMeasuredValueOfAirSpeed( );
+    void setMeasuredValueOfAirFlowDirection( );
+};

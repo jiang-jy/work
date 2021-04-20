@@ -1,0 +1,4 @@
+signature sWaterFlowRate {
+    void setCumulativeFlowRate( );
+    void setFlowRate( );
+};

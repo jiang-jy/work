@@ -1,0 +1,3 @@
+signature sOxygenSensor {
+    void setMeasuredValueOfOxygenConcentration( );
+};

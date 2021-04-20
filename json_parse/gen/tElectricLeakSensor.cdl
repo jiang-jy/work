@@ -1,0 +1,5 @@
+signature sElectricLeakSensor {
+    void setYES( );
+    void setNO( );
+    void setReset( );
+};

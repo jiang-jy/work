@@ -1,0 +1,6 @@
+signature sBathWaterLevelSensor {
+    void setBathWaterLevelOverDetectionThresholdLevel( );
+    void setYES( );
+    void setNO( );
+    void setMeasuredValueOfBathWaterLevel( );
+};

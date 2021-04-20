@@ -1,0 +1,4 @@
+signature sBathHeatingStatusSensor {
+    void setYES( );
+    void setNO( );
+};

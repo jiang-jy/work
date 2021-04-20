@@ -1,0 +1,4 @@
+signature sCigaretteSmokeSensor {
+    void setYES( );
+    void setNO( );
+};

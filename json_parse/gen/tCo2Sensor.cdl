@@ -1,0 +1,3 @@
+signature sCo2Sensor {
+    void setMeasuredValueOfCo2Concentration( );
+};

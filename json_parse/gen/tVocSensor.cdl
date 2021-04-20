@@ -1,0 +1,5 @@
+signature sVocSensor {
+    void setYES( );
+    void setNO( );
+    void setMeasuredValueOfVocConcentration( );
+};

@@ -1,0 +1,4 @@
+signature sBedPresenceSensor {
+    void setYES( );
+    void setNO( );
+};

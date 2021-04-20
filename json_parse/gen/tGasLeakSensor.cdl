@@ -1,0 +1,5 @@
+signature sGasLeakSensor {
+    void setYES( );
+    void setNO( );
+    void setReset( );
+};

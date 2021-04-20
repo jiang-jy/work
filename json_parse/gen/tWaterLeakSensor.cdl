@@ -1,0 +1,4 @@
+signature sWaterLeakSensor {
+    void setYES( );
+    void setNO( );
+};
